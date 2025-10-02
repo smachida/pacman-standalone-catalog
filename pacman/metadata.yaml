@@ -1,7 +1,7 @@
-displayName: Pacman-SA
+displayName: Pacman SA
 description: Install Pacman
 category:
-  - Games
+  - Games(Test)
 type: catalog
 allowMultipleInstances: false
 scope:
