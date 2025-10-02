@@ -4,7 +4,7 @@ metadata:
   name: pacman-dashboard-info
   namespace: pacman
   labels:
-    "kommander.d2iq.io/application": "pacman"
+    "kommander.d2iq.io/application": "pacman-sa"
 data:
   name: "pacman-sa"
   #dashboardLink: "https://pacman.principal.nkp-next.nxlab.fr"
